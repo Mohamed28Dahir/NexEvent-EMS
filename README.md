@@ -1,4 +1,4 @@
-# 🎊 Event Management System (EMS)
+# Event Management System (EMS)
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-777bb4.svg?style=flat-square&logo=php)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1.svg?style=flat-square&logo=mysql)](https://www.mysql.com/)
@@ -62,10 +62,10 @@ Setup the project locally using environment like XAMPP, WAMP, or MAMP:
 
 1.  **Deploy**: Clone or copy the project into your server's root directory (e.g., `htdocs/`).
 2.  **Database Configuration**:
-    - Access **phpMyAdmin** and create a database named `event_management`.
+    - Access **phpMyAdmin** and create a database named `NexEvent-EMS`.
     - Import the provided `database.sql` file.
 3.  **Environment Setup**: Verify `config/db.php` matches your local database credentials.
-4.  **Launch**: Navigate to `http://localhost/event-management-system`.
+4.  **Launch**: Navigate to `http://localhost/NexEvent-EMS`.
 
 ## Contributors & Credits
 
